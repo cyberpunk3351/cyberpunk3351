@@ -6,8 +6,9 @@
 
 ### Connect with me:
 
-[<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+
+[<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/8/83/Telegram_2019_Logo.svg" />][telegram]
 
 <br />
 
-[instagram]: https://instagram.com/deadloop
+[telegram]: https://t.me/cyberpunk3351
