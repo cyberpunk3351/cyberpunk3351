@@ -30,4 +30,4 @@
 
 
 [telegram]: https://t.me/cyberpunk3351
-[gmail]: mailto:ilya@php@gmail.com
+[gmail]: mailto:ilyaphp@gmail.com
