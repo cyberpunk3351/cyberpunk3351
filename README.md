@@ -6,7 +6,7 @@
   <img src="simposn.jpg" alt="Backend Developer" />
 </p> -->
 
-<p>Welcome! </br> I'm Ilya, Backend-developer</p>
+<p>I'm Ilya, Backend-developer</p>
 <h3>Things I code with</h3>
 <p>
   <img alt="PHP" src="https://img.shields.io/badge/-PHP-777BB4?style=flat-square&logo=php&logoColor=white" />
