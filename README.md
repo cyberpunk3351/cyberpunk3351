@@ -19,6 +19,23 @@
 <img alt="MySQL" src="https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
 <img alt="Kafka" src="https://img.shields.io/badge/-Kafka-231F20?style=flat-square&logo=apachekafka&logoColor=white" />
 <img alt="Redis" src="https://img.shields.io/badge/-Redis-DC382D?style=flat-square&logo=redis&logoColor=white" />
+<img alt="Redis" src="https://img.shields.io/badge/-Redis-DC382D?style=flat-square&logo=redis&logoColor=white" />
+<img
+    alt="ChatGPT"
+    src="https://img.shields.io/badge/ChatGPT-412991?style=flat-square&logo=openai&logoColor=white"
+  />
+  <img
+    alt="Claude"
+    src="https://img.shields.io/badge/Claude-121212?style=flat-square&logo=anthropic&logoColor=white"
+  />
+  <img
+    alt="Gemini"
+    src="https://img.shields.io/badge/Gemini-4285F4?style=flat-square&logo=googlegemini&logoColor=white"
+  />
+  <img
+    alt="Ollama"
+    src="https://img.shields.io/badge/Ollama-000000?style=flat-square&logo=ollama&logoColor=white"
+  />
 </p>
 
 ---
