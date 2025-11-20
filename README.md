@@ -1,12 +1,10 @@
 
 
-<h1><img src="https://emojis.slackmojis.com/emojis/images/1649787721/57551/eat_watermelon.gif?1649787721" width="30"/> Hey! Nice to see you</h1>
+<h1><img src="https://emojis.slackmojis.com/emojis/images/1649787721/57551/eat_watermelon.gif?1649787721" width="30"/> Hey! I'm Ilya, Backend-developer</h1>
 
 <!-- <p align="center">
   <img src="simposn.jpg" alt="Backend Developer" />
 </p> -->
-
-<p>I'm Ilya, Backend-developer</p>
 <h3>Things I code with</h3>
 <p>
   <img alt="PHP" src="https://img.shields.io/badge/-PHP-777BB4?style=flat-square&logo=php&logoColor=white" />
