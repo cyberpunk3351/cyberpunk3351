@@ -11,7 +11,8 @@
 <p>
   <img alt="PHP" src="https://img.shields.io/badge/-PHP-777BB4?style=flat-square&logo=php&logoColor=white" />
 <img alt="Laravel" src="https://img.shields.io/badge/-Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white" />
-<img alt="Linux" src="https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black" />
+<img alt="Arch Linux"src="https://img.shields.io/badge/Arch_Linux-1793D1?style=flat-square&logo=archlinux&logoColor=white" />
+  <img alt="Debian" src="https://img.shields.io/badge/Debian-A81D33?style=flat-square&logo=debian&logoColor=white" />
 <img alt="Docker" src="https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
 <img alt="Vue.js" src="https://img.shields.io/badge/-Vue.js-4FC08D?style=flat-square&logo=vuedotjs&logoColor=white" />
 <img alt="Vite" src="https://img.shields.io/badge/-Vite-646CFF?style=flat-square&logo=vite&logoColor=white" />
@@ -20,22 +21,10 @@
 <img alt="Kafka" src="https://img.shields.io/badge/-Kafka-231F20?style=flat-square&logo=apachekafka&logoColor=white" />
 <img alt="Redis" src="https://img.shields.io/badge/-Redis-DC382D?style=flat-square&logo=redis&logoColor=white" />
 <img alt="Redis" src="https://img.shields.io/badge/-Redis-DC382D?style=flat-square&logo=redis&logoColor=white" />
-<img
-    alt="ChatGPT"
-    src="https://img.shields.io/badge/ChatGPT-412991?style=flat-square&logo=openai&logoColor=white"
-  />
-  <img
-    alt="Claude"
-    src="https://img.shields.io/badge/Claude-121212?style=flat-square&logo=anthropic&logoColor=white"
-  />
-  <img
-    alt="Gemini"
-    src="https://img.shields.io/badge/Gemini-4285F4?style=flat-square&logo=googlegemini&logoColor=white"
-  />
-  <img
-    alt="Ollama"
-    src="https://img.shields.io/badge/Ollama-000000?style=flat-square&logo=ollama&logoColor=white"
-  />
+<img alt="ChatGPT" src="https://img.shields.io/badge/ChatGPT-412991?style=flat-square&logo=openai&logoColor=white" />
+  <img alt="Claude" src="https://img.shields.io/badge/Claude-121212?style=flat-square&logo=anthropic&logoColor=white"/>
+  <img alt="Gemini" src="https://img.shields.io/badge/Gemini-4285F4?style=flat-square&logo=googlegemini&logoColor=white" />
+  <img alt="Ollama" src="https://img.shields.io/badge/Ollama-000000?style=flat-square&logo=ollama&logoColor=white" />
 </p>
 
 ---
