@@ -1,6 +1,6 @@
 
 
-<h1><img src="https://emojis.slackmojis.com/emojis/images/1649787721/57551/eat_watermelon.gif?1649787721" width="30"/> Hey! Nice to see you.</h1>
+<h1><img src="https://emojis.slackmojis.com/emojis/images/1649787721/57551/eat_watermelon.gif?1649787721" width="30"/> Hey! Nice to see you</h1>
 
 <!-- <p align="center">
   <img src="simposn.jpg" alt="Backend Developer" />
